@@ -1,2 +1,2 @@
 # samplerepo
-### This is a sample repo for devops bootcamp
+## This is a sample repo for devops bootcamp
